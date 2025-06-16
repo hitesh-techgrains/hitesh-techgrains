@@ -14,9 +14,9 @@
 <ul>
   <li><strong>Languages:</strong> Dart, Java, Kotlin</li>
   <li><strong>Frameworks:</strong> Flutter, Android SDK</li>
-  <li><strong>State Management:</strong> Provider, Riverpod, Bloc</li>
-  <li><strong>Backend:</strong> Firebase, REST APIs, GraphQL</li>
-  <li><strong>Tools:</strong> Git, VS Code, Android Studio, Postman</li>
+  <li><strong>State Management:</strong> Provider, Bloc</li>
+  <li><strong>Backend:</strong> Firebase, REST APIs</li>
+  <li><strong>Tools:</strong> Git, VS Code, Android Studio, Xcode, Postman</li>
   <li><strong>Testing:</strong> Unit Testing, Widget Testing, Integration Testing</li>
   <li><strong>Other:</strong> Google Maps, Push Notifications, Payment Gateway Integration</li>
 </ul>
@@ -25,6 +25,7 @@
 <ul>
   <li>Advanced Flutter Animations</li>
   <li>Clean Architecture in Flutter</li>
+  <li>SwiftUI</li>
 </ul>
 
 <h2>📫 Let's Connect</h2>
