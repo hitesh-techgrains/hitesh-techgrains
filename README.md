@@ -23,7 +23,6 @@
 
 <h2>🌱 Currently Learning</h2>
 <ul>
-  <li>Advanced Flutter Animations</li>
   <li>Clean Architecture in Flutter</li>
   <li>SwiftUI</li>
 </ul>
